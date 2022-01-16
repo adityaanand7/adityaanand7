@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @AdityaAnand
 - 👀 I’m interested in compilers
-- 🌱 I’m currently wworking on java compilers to make it more efficient.
-- 📫 How to reach me : s20007@students.iitmandi.ac.in
+- 🌱 I’m currently working on java compilers to make it more efficient.
+- 📫 How to reach me : 
+-  website: adityaanand7.github.io
+-  mail : s20007@students.iitmandi.ac.in
 
 <!---
 adityaanand7/adityaanand7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
