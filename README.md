@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaAnand
 - 👀 I’m interested in compilers
-- 🌱 I’m currently working on java compilers to make it more efficient.
+- 🌱 I’m currently working on java's JIT compiler to make it more efficient.
 - 📫 How to reach me : 
 -  website: https://adityaanand7.github.io/
 -  mail : adityaanand@cse.iitb.ac.in
