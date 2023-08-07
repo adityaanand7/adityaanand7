@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on java's JIT compiler to make it more efficient.
 - 📫 How to reach me : 
 -  website: https://adityaanand7.github.io/
--  mail : adityaanand@cse.iitb.ac.in
+-  mail : adityaanand@cse.iitb.ac.in or adityaanand@iitb.ac.in
 
 <!---
 adityaanand7/adityaanand7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
