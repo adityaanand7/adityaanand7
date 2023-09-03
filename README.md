@@ -2,7 +2,7 @@
 - 👀 I’m interested in compilers
 - 🌱 I’m currently working on java's JIT compiler to make it more efficient.
 - 📫 How to reach me : 
--  website: https://adityaanand7.github.io/ or hhtps://cse.iitb.ac.in/~adityaanand
+-  website: https://adityaanand7.github.io/ or https://cse.iitb.ac.in/~adityaanand
 -  mail : adityaanand@cse.iitb.ac.in or adityaanand@iitb.ac.in
 
 <!---
