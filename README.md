@@ -3,7 +3,8 @@
 </h1>
 
 ## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="450" />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="380" style="border: 2px solid  gray;" />
 
 - 👋 I’m Aditya Anand
 - 👀 I’m interested in compilers.
@@ -11,7 +12,6 @@
 - 📫 How to reach me : 
   -  Webpage: [https://adityaanand7.github.io/]
   -  Mail : [adityaanand@cse.iitb.ac.in] or [adityaanand@iitb.ac.in]
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaanand7&theme=nightowl)](https://git.io/streak-stats)
 
