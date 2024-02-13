@@ -4,7 +4,7 @@
 
 ## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="380" style="border: 2px solid  gray;" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="360" style="border: 2px solid  gray;" />
 
 - 👋 I’m Aditya Anand
 - 👀 I’m interested in compilers.
@@ -13,7 +13,7 @@
   -  Webpage: [https://adityaanand7.github.io/]
   -  Mail : [adityaanand@cse.iitb.ac.in] or [adityaanand@iitb.ac.in]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaanand7&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaanand7&theme=nightowl&card_width=482)](https://git.io/streak-stats)
 
 <!---
 adityaanand7/adityaanand7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
