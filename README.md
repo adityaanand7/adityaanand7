@@ -13,8 +13,8 @@
   -  Webpage: [https://adityaanand7.github.io/]
   -  Mail : [adityaanand@cse.iitb.ac.in] or [adityaanand@iitb.ac.in]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaanand7&theme=nightowl&card_width=482)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaanand7&theme=nightowl&card_width=482)](https://git.io/streak-stats) --->
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityaanand7&theme=nightowl&card_width=482)](https://git.io/streak-stats)
 <!---
 adityaanand7/adityaanand7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
